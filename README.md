@@ -68,7 +68,6 @@
 
 ---
 
-## 🐍 Contributions Snake
 
 ## 🐍 Contributions Snake
 
@@ -76,7 +75,7 @@
   <picture>
     <!-- dark mode snake -->
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/dist/github-contribution-grid-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/CodebyVs/CodebyVs/main/dist/github-contribution-grid-snake-dark.svg" />
     <!-- light mode snake -->
     <img
       src="https://raw.githubusercontent.com/CodebyVs/CodebyVs/main/dist/github-contribution-grid-snake.svg"
