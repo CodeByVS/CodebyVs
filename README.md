@@ -26,20 +26,23 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vikashshaw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/vikashshaw" target="_blank" style="margin:0 5px">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/vikashshaw.me" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/codebyvs" target="_blank" style="margin:0 5px">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
   </a>
-  <a href="https://www.hackerrank.com/@vikashshaw9622" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <a href="https://instagram.com/vikashshaw.me" target="_blank" style="margin:0 5px">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram"/>
   </a>
-  <a href="https://codeforces.com/profile/vikash_shaw" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+  <a href="https://www.hackerrank.com/@vikashshaw9622" target="_blank" style="margin:0 5px">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square" alt="HackerRank"/>
   </a>
-  <a href="https://leetcode.com/vikash_kumar_shaw" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116"/>
+  <a href="https://codeforces.com/profile/vikash_shaw" target="_blank" style="margin:0 5px">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?logo=codeforces&logoColor=white&style=flat-square" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/vikash_kumar_shaw" target="_blank" style="margin:0 5px">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square" alt="LeetCode"/>
   </a>
 </p>
 
@@ -56,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyvs&show_icons=true&theme=radical&hide_border=true" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyvs&layout=compact&theme=radical&hide_border=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyvs&show_icons=true&theme=github_dark&hide_border=true" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyvs&layout=compact&theme=github_dark&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 
 ---
