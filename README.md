@@ -82,7 +82,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codebyvs&style=flat-square&color=blue" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/codebyvs?label=Followers&style=social" alt="Followers" />
 </p>
 
 ---
