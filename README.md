@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Animated GitHub Icon -->
   <a href="https://github.com/CodebyVs" target="_blank">
-    <img src="./octocat.gif" alt="GitHub" width="60" />
+    <img src="./octocat.gif" alt="GitHub" width="200" />
   </a>
 </p>
 
