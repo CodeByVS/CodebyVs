@@ -29,7 +29,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vikashshaw" target="_blank" style="margin:0 5px">
+  <a href="https://linkedin.com/in/vikashkshaw" target="_blank" style="margin:0 5px">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/codebyvs" target="_blank" style="margin:0 5px">
@@ -38,7 +38,7 @@
   <a href="https://instagram.com/vikashshaw.me" target="_blank" style="margin:0 5px">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/@vikashshaw9622" target="_blank" style="margin:0 5px">
+  <a href="https://www.hackerrank.com/vikashshaw9622" target="_blank" style="margin:0 5px">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square" alt="HackerRank"/>
   </a>
   <a href="https://codeforces.com/profile/vikash_shaw" target="_blank" style="margin:0 5px">
