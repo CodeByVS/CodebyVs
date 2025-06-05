@@ -1,0 +1,33 @@
+name: Generate Contribution Snake
+
+# run every day at midnight UTC, or trigger manually via the Actions tab
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # so the action can commit the generated files
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) check out your repo
+      - uses: actions/checkout@v4
+
+      # 2) generate the snake SVG(s)
+      - name: Generate contribution snake
+        uses: platane/snk@v3
+        with:
+          github_user_name: CodebyVs
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      # 3) commit & push the generated files back to your default branch
+      - name: Commit generated snake files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update contribution snake"
+          file_pattern: dist/*
