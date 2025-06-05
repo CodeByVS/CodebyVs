@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="GitHub Logo" />
+  <!-- Animated GitHub Icon -->
+  <a href="https://github.com/CodebyVs" target="_blank">
+    <img src="./octocat.gif" alt="GitHub" width="60" />
+  </a>
 </p>
 
 <h1 align="center">
