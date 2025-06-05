@@ -8,15 +8,9 @@
 
 <h3 align="center">🚀 A Passionate Full Stack Developer & AI/ML Enthusiast from India 🇮🇳</h3>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
-</div>
-
 <br/>
 
 ## 🎯 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif">
 
 - 🔭 I'm currently working on **AI/ML Projects & Full Stack Applications**
 - 🌱 I'm currently learning **Advanced Machine Learning & Cloud Technologies**
@@ -25,7 +19,7 @@
 - 📫 How to reach me: **Vikashshaw013@gmail.com**
 - ⚡ Fun fact: **The first computer bug was an actual moth! 🐛**
 
-<br clear="both" />
+<br/>
 
 ## 🌐 Connect with Me
 
@@ -49,12 +43,62 @@
 
 ## 🛠️ Languages & Tools
 
+### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,html,css,bootstrap,tailwind" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,git,github,vscode,figma,linux,docker" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,flask,fastapi,postman" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c" />
+</div>
+
+### 🌐 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,sass,materialui" />
+</div>
+
+### ⚙️ Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,spring" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite" />
+</div>
+
+### 🤖 AI/ML & Data Science
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins" />
+</div>
+
+### 🔧 Tools & IDEs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,linux,vim" />
+</div>
+
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+</div>
+
+### 🎨 Design & Prototyping
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+</div>
+
+### 🧪 Testing & Quality Assurance
+<div align="center">
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"/>
 </div>
 
 ## 📊 GitHub Stats
@@ -63,19 +107,6 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=codebyvs&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyvs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=codebyvs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=codebyvs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
 </div>
 
 <br/><br/>
@@ -94,8 +125,6 @@
   <img src="https://komarev.com/ghpvc/?username=codebyvs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/codebyvs?label=Followers&style=social" alt="GitHub Badge"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Connect+with+me!;I'm+always+down+to+collab!">
