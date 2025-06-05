@@ -1,31 +1,41 @@
-name: Generate Contribution Snake
+name: Generate & Verify Contribution Snake
 
-# run every day at midnight UTC, or trigger manually via the Actions tab
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # daily at midnight UTC
+  workflow_dispatch:      # manual trigger
 
 permissions:
-  contents: write   # so the action can commit the generated files
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1) check out your repo
       - uses: actions/checkout@v4
 
-      # 2) generate the snake SVG(s)
       - name: Generate contribution snake
         uses: platane/snk@v3
         with:
-          github_user_name: CodebyVs
+          github_user_name: YOUR_USERNAME
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      # 3) commit & push the generated files back to your default branch
+      - name: Verify generated files exist
+        run: |
+          echo "Checking for generated snake SVGs…"
+          ls dist
+          if [[ ! -f dist/github-contribution-grid-snake.svg ]]; then
+            echo "::error ::Missing dist/github-contribution-grid-snake.svg"
+            exit 1
+          fi
+          if [[ ! -f dist/github-contribution-grid-snake-dark.svg ]]; then
+            echo "::error ::Missing dist/github-contribution-grid-snake-dark.svg"
+            exit 1
+          fi
+          echo "✅ Both snake SVGs are present."
+
       - name: Commit generated snake files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
