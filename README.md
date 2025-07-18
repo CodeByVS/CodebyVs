@@ -20,7 +20,8 @@
 - 🔭 Working on **AI/ML Projects & Full Stack Applications**  
 - 🌱 Learning **Advanced Machine Learning & Cloud Technologies**  
 - 👯 Open to collaborating on **Open Source Projects**  
-- 💬 Ask me about **Python, JavaScript, React, AI/ML**  
+- 💬 Ask me about **Python, JavaScript, React, AI/ML**
+- 🔗 Portfolio:  [portfolio-v2-seven-rosy.vercel.app](https://portfolio-v2-seven-rosy.vercel.app)
 - 📫 Reach me: [Vikashshaw013@gmail.com](mailto:Vikashshaw013@gmail.com)  
 - ⚡ Fun fact: **The first computer bug was an actual moth! 🐛**
 
