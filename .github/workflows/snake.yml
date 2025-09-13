@@ -1,43 +1,43 @@
-name: Generate & Verify Contribution Snake
+# name: Generate & Verify Contribution Snake
 
-on:
-  schedule:
-    - cron: '0 0 * * *'   # daily at midnight UTC
-  workflow_dispatch:      # manual trigger
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'   # daily at midnight UTC
+#   workflow_dispatch:      # manual trigger
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
 
-      - name: Generate contribution snake
-        uses: platane/snk@v3
-        with:
-          github_user_name: codebyvs
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+#       - name: Generate contribution snake
+#         uses: platane/snk@v3
+#         with:
+#           github_user_name: codebyvs
+#           outputs: |
+#             dist/github-contribution-grid-snake.svg
+#             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Verify generated files exist
-        run: |
-          echo "Checking for generated snake SVGs…"
-          ls dist
-          if [[ ! -f dist/github-contribution-grid-snake.svg ]]; then
-            echo "::error ::Missing dist/github-contribution-grid-snake.svg"
-            exit 1
-          fi
-          if [[ ! -f dist/github-contribution-grid-snake-dark.svg ]]; then
-            echo "::error ::Missing dist/github-contribution-grid-snake-dark.svg"
-            exit 1
-          fi
-          echo "✅ Both snake SVGs are present."
+#       - name: Verify generated files exist
+#         run: |
+#           echo "Checking for generated snake SVGs…"
+#           ls dist
+#           if [[ ! -f dist/github-contribution-grid-snake.svg ]]; then
+#             echo "::error ::Missing dist/github-contribution-grid-snake.svg"
+#             exit 1
+#           fi
+#           if [[ ! -f dist/github-contribution-grid-snake-dark.svg ]]; then
+#             echo "::error ::Missing dist/github-contribution-grid-snake-dark.svg"
+#             exit 1
+#           fi
+#           echo "✅ Both snake SVGs are present."
 
-      - name: Commit generated snake files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update contribution snake"
-          file_pattern: dist/*
+#       - name: Commit generated snake files
+#         uses: stefanzweifel/git-auto-commit-action@v4
+#         with:
+#           commit_message: "chore: update contribution snake"
+#           file_pattern: dist/*
