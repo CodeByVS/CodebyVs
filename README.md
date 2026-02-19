@@ -57,10 +57,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python,php,html,css,bootstrap,tailwind,react,redux,nextjs,vuejs,nodejs,express,flask,mongodb,mysql,postgresql,oracle,microsoftsql,tensorflow,pytorch,opencv,scikitlearn,pandas,seaborn,aws,heroku,git,linux,bash,postman,figma,babel,arduino,appwrite" alt="Languages & Tools" />
 </p>
+<!--
+<!-----
 
----
-
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebyvs&show_icons=true&theme=github_dark&hide_border=true" width="45%" alt="GitHub Stats" />
@@ -68,7 +68,7 @@
 </p>
 
 ---
-
+-->
 
 
 
