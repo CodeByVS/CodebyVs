@@ -22,7 +22,8 @@
 - 👯 Open to collaborating on **Open Source Projects**  
 - 💬 Ask me about **Python, JavaScript, React, AI/ML**
 - 🔗 Portfolio:  [vikash-shaw-portfolio.vercel.app](https://vikash-shaw-portfolio.vercel.app/)
-- 📫 Reach me: [Vikashshaw013@gmail.com](mailto:Vikashshaw013@gmail.com)  
+- 📫 Reach me: [Vikashshaw013@gmail.com](mailto:Vikashshaw013@gmail.com)
+- 🐙 Github second account : [https://github.com/vikash-shaw-013](https://github.com/vikash-shaw-013)
 - ⚡ Fun fact: **The first computer bug was an actual moth! 🐛**
 
 ---
