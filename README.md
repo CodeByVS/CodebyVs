@@ -1,43 +1,47 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  HEADER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░  HERO  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=VIKASH%20SHAW&fontSize=58&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=bb9af7" alt="Vikash Shaw banner header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=210&section=header&text=VIKASH%20SHAW&fontSize=56&fontColor=70a5fd&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=56&descSize=18&descColor=bb9af7" alt="Vikash Shaw banner header" />
 
 <p align="center">
   <a href="https://github.com/CodebyVs" target="_blank">
     <!-- NOTE: this relative path only renders if octocat.gif lives in the root
          of your CodebyVs/CodebyVs profile repo. If it's missing, swap in an
          absolute URL instead so the image doesn't break. -->
-    <img src="./octocat.gif" alt="Spinning GitHub Octocat mascot" width="120" />
+    <img src="./octocat.gif" alt="Spinning GitHub Octocat mascot" width="110" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%E2%9A%A1+Building+the+future+with+code+%26+intelligence;%F0%9F%9A%80+Crafting+intelligent+systems+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=19&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=76&lines=%E2%9A%A1+Building+the+future+with+code+%26+intelligence;%F0%9F%9A%80+Crafting+intelligent+systems+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing subtitle" />
 </p>
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-121620?style=flat-square&labelColor=121620&color=70a5fd" alt="About" /></a>
-  <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/Tech_Stack-121620?style=flat-square&labelColor=121620&color=bb9af7" alt="Tech Stack" /></a>
-  <a href="#-what-i-build"><img src="https://img.shields.io/badge/What_I_Build-121620?style=flat-square&labelColor=121620&color=9ece6a" alt="What I Build" /></a>
-  <a href="#-engineering-philosophy"><img src="https://img.shields.io/badge/Philosophy-121620?style=flat-square&labelColor=121620&color=7aa2f7" alt="Philosophy" /></a>
-  <a href="#-competitive-edge"><img src="https://img.shields.io/badge/Competitive_Edge-121620?style=flat-square&labelColor=121620&color=f7768e" alt="Competitive Edge" /></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-121620?style=flat-square&labelColor=121620&color=e0af68" alt="Connect" /></a>
+  <sub><i>Full-stack engineer who ships production web apps and the AI systems behind them.</i></sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/01-About-141821?style=for-the-badge&labelColor=141821&color=70a5fd" alt="About" /></a>
+  <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/02-Tech_Stack-141821?style=for-the-badge&labelColor=141821&color=bb9af7" alt="Tech Stack" /></a>
+  <a href="#-what-i-build"><img src="https://img.shields.io/badge/03-What_I_Build-141821?style=for-the-badge&labelColor=141821&color=9ece6a" alt="What I Build" /></a>
+  <a href="#-engineering-philosophy"><img src="https://img.shields.io/badge/04-Philosophy-141821?style=for-the-badge&labelColor=141821&color=7aa2f7" alt="Philosophy" /></a>
+  <a href="#-competitive-edge"><img src="https://img.shields.io/badge/05-Competitive_Edge-141821?style=for-the-badge&labelColor=141821&color=f7768e" alt="Competitive Edge" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/06-Connect-141821?style=for-the-badge&labelColor=141821&color=e0af68" alt="Connect" /></a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  SOCIAL BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░  SOCIAL LINKS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <a href="https://vikash-shaw-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/vikashkshaw" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:Vikashshaw013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="mailto:vikashkrshaw.career@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://github.com/codebyvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" alt="" />
@@ -57,7 +61,7 @@
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="58%" valign="top">
+    <td width="56%" valign="top">
 
 ```js
 const vikash = {
@@ -78,15 +82,31 @@ const vikash = {
 ```
 
   </td>
-  <td width="42%" valign="top" align="center">
-    <br/>
-    <img src="https://img.shields.io/badge/🎯_Focus-AI%20%26%20Full%20Stack-70a5fd?style=for-the-badge&labelColor=0d1117" alt="Focus: AI and Full Stack" /><br/><br/>
-    <img src="https://img.shields.io/badge/📍_Based_in-India-9ece6a?style=for-the-badge&labelColor=0d1117" alt="Based in India" /><br/><br/>
-    <img src="https://img.shields.io/badge/🗣️_Speaks-English%20%26%20Hindi-bb9af7?style=for-the-badge&labelColor=0d1117" alt="Speaks English and Hindi" /><br/><br/>
-    <a href="https://github.com/vikash-shaw-013" target="_blank">
-      <img src="https://img.shields.io/badge/🐙_2nd_GitHub-vikash--shaw--013-f7768e?style=for-the-badge&labelColor=0d1117" alt="Second GitHub account: vikash-shaw-013" />
-    </a>
-    <br/>
+  <td width="44%" valign="top">
+    <table align="center" width="100%" border="0" cellspacing="6" cellpadding="0">
+      <tr>
+        <td align="center" width="50%">
+          <img src="https://img.shields.io/badge/🎯_Focus-70a5fd?style=for-the-badge&labelColor=0d1117" alt="Focus" /><br/>
+          <sub>AI & Full Stack</sub>
+        </td>
+        <td align="center" width="50%">
+          <img src="https://img.shields.io/badge/📍_Based_in-9ece6a?style=for-the-badge&labelColor=0d1117" alt="Location" /><br/>
+          <sub>India</sub>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="50%">
+          <img src="https://img.shields.io/badge/🗣️_Speaks-bb9af7?style=for-the-badge&labelColor=0d1117" alt="Languages" /><br/>
+          <sub>English & Hindi</sub>
+        </td>
+        <td align="center" width="50%">
+          <a href="https://github.com/vikash-shaw-013" target="_blank">
+            <img src="https://img.shields.io/badge/🐙_2nd_GitHub-f7768e?style=for-the-badge&labelColor=0d1117" alt="Second GitHub account" /><br/>
+            <sub>vikash-shaw-013</sub>
+          </a>
+        </td>
+      </tr>
+    </table>
   </td>
   </tr>
 </table>
@@ -287,12 +307,16 @@ const vikash = {
 </p>
 
 <p align="center">
-  <a href="https://vikash-shaw-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Portfolio-70a5fd?style=for-the-badge&logoColor=white" alt="View Portfolio" /></a>&nbsp;
-  <a href="mailto:Vikashshaw013@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-bb9af7?style=for-the-badge&logoColor=white" alt="Say Hello" /></a>
+  <a href="https://vikash-shaw-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Portfolio-70a5fd?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>&nbsp;
+  <a href="mailto:vikashkrshaw.career@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codebyvs&style=for-the-badge&color=70a5fd&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="#">⬆ Back to top</a>
 </p>
 
 <br/>
